@@ -1,3 +1,4 @@
+// Second half of merge sort algorithm 
 // Time Complexity O(n)
 // Space Complexity O(n)
 
